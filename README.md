@@ -1,0 +1,1 @@
+This is a customised CMS project in PHP aiming to manage contents of College fests' website. Developed specifically for NIT Rourkela, India.
