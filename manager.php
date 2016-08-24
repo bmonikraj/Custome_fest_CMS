@@ -1,0 +1,1 @@
+//Page for manging editors
