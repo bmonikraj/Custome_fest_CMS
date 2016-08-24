@@ -1,1 +1,0 @@
-//For login page of the CMS
