@@ -1,0 +1,1 @@
+//Page for events management
